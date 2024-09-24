@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailApp.API", "RetailApp.API.csproj", "{69717F06-3185-407B-819A-B7BE2B4A3728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailApp.Entities", "..\RetailApp.Entities\RetailApp.Entities.csproj", "{3215060F-1561-41A6-9EB8-686DA8AF3A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69717F06-3185-407B-819A-B7BE2B4A3728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69717F06-3185-407B-819A-B7BE2B4A3728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69717F06-3185-407B-819A-B7BE2B4A3728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69717F06-3185-407B-819A-B7BE2B4A3728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3215060F-1561-41A6-9EB8-686DA8AF3A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3215060F-1561-41A6-9EB8-686DA8AF3A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3215060F-1561-41A6-9EB8-686DA8AF3A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3215060F-1561-41A6-9EB8-686DA8AF3A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D1AC34-3657-4A94-B350-CB4180BB5748}
+	EndGlobalSection
+EndGlobal
